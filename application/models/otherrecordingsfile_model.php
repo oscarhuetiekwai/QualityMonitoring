@@ -1,0 +1,1 @@
+<?phpclass Otherrecordingsfile_model extends MY_Model {	protected $_table = 'qm.other_recordings_file';	protected $primary_key = 'other_recordings_file_id';	function get_record($record_id)	{		$this->db->where('record_id', $record_id);		return $this;	}}?>

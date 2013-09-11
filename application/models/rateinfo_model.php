@@ -1,0 +1,1 @@
+<?phpclass Rateinfo_model extends MY_Model {	protected $_table = 'qm.rate_info';	//protected $primary_key = 'record_id';}?>

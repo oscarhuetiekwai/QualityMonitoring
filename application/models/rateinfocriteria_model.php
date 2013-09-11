@@ -1,0 +1,1 @@
+<?phpclass Rateinfocriteria_model extends MY_Model {	protected $_table = 'qm.rate_info_criteria';	//protected $primary_key = 'record_id';}?>
