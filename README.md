@@ -1,4 +1,6 @@
-CRUD
+QM System
 ====
 
-CRUD included codeigniter and bootstrap framework to build a simple Create , Read , Update and Delete function
+This QM system is base on callcenter agent performance
+
+It able to give rate to agent, create a form, included 3 types of form format and 3 form formula
